@@ -133,7 +133,8 @@ no reason to expect that this will change.
 
 You don't have to do anything.  All the existing 
 APIs and endpoints and services will work exactly
-as before. 
+as before.
+All AWS accounts and billing will work as before.
 
 **6. Why the corporate transaction structure, with the large payment and 20% equity stake?**
 
@@ -158,7 +159,7 @@ positive margin.
 **7. Why are we doing this?**
 
 The connection with Amazon is an increasingly important factor limiting the 
-growth of AWS. As a matter of strategy Amazon continues expanding into multiple markets 
+growth of AWS. As a matter of strategy, Amazon continues expanding into multiple markets 
 and, whether or not customers *should* worry about their cloud provider being associated
 with a competitor, they *do*.  We estimate (see Appendix C) that spinning 
 out A-Cloud will increase is projected 2025 revenue from $75B to $110B.
@@ -206,8 +207,8 @@ developed a large amount of expertise in using AWS effectively, and retains an
 equity stake in A-Cloud.
 
 However, one can imagine applications which don't need much more than a virtual 
-Linux instance, in cases where Azure has a region in closer geographic proximity 
-to a large retail site than any A-Cloud region; in this case Azure might be a great
+Linux instance, in cases where Azure or Google Cloud has a region in closer geographic proximity 
+to a large retail site than any A-Cloud region; in this case, using an alternative service might be a great
 choice. 
 
 

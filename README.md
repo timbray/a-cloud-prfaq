@@ -179,7 +179,7 @@ The vast majority of IT people have come to understand the advantages of moving 
 app deployments from their own infrastructure to the public cloud, including 
 increased agility, world-class security, and reduced costs. Now, when they approach
 leadership with the idea of moving to the cloud, they will no longer have to deal with 
-fear that they might be perceived as empowering a competitor.
+fear that they might be empowering a competitor.
 
 **9. What do we want customers to say about A-Cloud?**
 

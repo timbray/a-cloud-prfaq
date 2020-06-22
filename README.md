@@ -207,7 +207,7 @@ developed a large amount of expertise in using AWS effectively, and retains an
 equity stake in A-Cloud.
 
 However, one can imagine applications which don't need much more than a virtual 
-Linux instance, in cases where Azure or Google Could has a region in closer geographic proximity 
+Linux instance, in cases where Azure or Google Cloud has a region in closer geographic proximity 
 to a large retail site than any A-Cloud region; in this case, using an alternative service might be a great
 choice. 
 

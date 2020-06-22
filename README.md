@@ -1,6 +1,6 @@
 # AWS Becomes "A-Cloud", an Independent Entity
 
-### A-Cloud is freed to address the whole multi-trillion dollar IT marketplace
+### A-Cloud is positioned to address the whole multi-trillion dollar IT marketplace
 
 ### Goldman Sachs to lead A-Cloud IPO - launch customers include Walmart and Apple
 
@@ -41,7 +41,7 @@ the IT horizon."
 
 Following on A-Cloud's IPO, to be managed by Goldman Sachs, A-Cloud 
 will acquire all current AWS assets from Amazon.com
-for a one-time payment of $50 billion. Also, Amazon.com will receive a 
+for a one-time payment of $100 billion. Also, Amazon.com will receive a 
 20% equity stake in A-Cloud. Jeff Bezos has agreed to join the 
 A-Cloud Board of Directors, but will not seek nor accept the Chairmanship.
 

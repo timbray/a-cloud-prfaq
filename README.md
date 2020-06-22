@@ -17,7 +17,7 @@ visit [A.Cloud](https://a.cloud).
 AWS has become the leading public-cloud provider, offering the widest 
 range of services backed by the strongest security, availability,
 and data-protection infrastructure.  Now, organizations who compete
-with Amazon want to take advantages of AWS's industry-leading 
+with Amazon want to take advantage of AWS's industry-leading 
 offerings without having to worry that they are strengthening 
 a competitor. 
 

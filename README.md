@@ -4,6 +4,10 @@
 
 ### Goldman Sachs to lead A-Cloud IPO - launch customers include Walmart and Apple
 
+**[Important: This document is not an Amazon production. It describes a hypothetical
+process that could take place, but the author is not an Amazon employee and has no information to suggest that any such process is
+in fact taking place.]**
+
 SEATTLE--(Business Wire)--December 1, 2020-- Today, at AWS re:Invent, 
 Jeff Bezos and Andy Jassy jointly announced A-Cloud, a new Delaware 
 corporation which will assume ownership of Amazon Web Services'

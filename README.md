@@ -116,7 +116,7 @@ to its fairness both to Amazon.com and to AWS.
 
 Obviously, since Amazon.com will be a large customer
 of A-Cloud, it will not be paying list prices. But
-the prices will be be denominated in real money and
+the prices will be denominated in real money and
 there will be no suspicion that either party is 
 accepting an unreasonable deal.
 

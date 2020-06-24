@@ -166,7 +166,7 @@ The connection with Amazon is an increasingly important factor limiting the
 growth of AWS. As a matter of strategy, Amazon continues expanding into multiple markets 
 and, whether or not customers *should* worry about their cloud provider being associated
 with a competitor, they *do*.  We estimate (see Appendix C) that spinning 
-out A-Cloud will increase is projected 2025 revenue from $75B to $110B.
+out A-Cloud will increase its projected 2025 revenue from $75B to $110B.
 
 Second, the requirement to use AWS for every purpose in every geography may not always
 serve Amazon retail optimally.
